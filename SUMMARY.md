@@ -6,4 +6,5 @@
 ## To Do App
 
 * [To Do App Chapter 01](to-do-app/to-do-app-chapter-01.md)
+* [To Do App Chapter 02](to-do-app/to-do-app-chapter-02.md)
 
